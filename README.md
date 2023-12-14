@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dudziol-cmd
 - 👀 I’m interested in computer programming, game development, software engineering.
 - 🌱 I’m currently learning everything about technical stuff.
-- 💞️ I’m looking to collaborate on nothing bros, I am alone wolf.
+- 💞️ I’m looking to collaborate on nothing bros, I am lone wolf.
 - 📫 How to reach me? Call me.
 
 <!---
